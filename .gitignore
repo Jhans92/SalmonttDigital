@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -28,3 +30,22 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+Thumbs.db
+
+### Java compiled files ###
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Logs ###
+*.log
+
+### Temporary / crash logs ###
+hs_err_pid*
+replay_pid*
+.mtj.tmp/
